@@ -6,3 +6,7 @@ url: "https://nubia-labs.github.io"
 
 # Swiss theme settings
 theme_color: white # Can be red, blue, black, gray, magenta
+
+# Author information
+author:
+  name: Nubia Labs
