@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Welcome to my blog! Here you'll find my latest posts and thoughts.
+Welcome to the Nubia-labs blog. It is a space of discovery and sharing in Machine Learning and AI.

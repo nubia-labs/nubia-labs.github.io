@@ -1,8 +1,8 @@
-title: Your Blog Title
-description: Your blog description
+title: Nubia-labs blog
+description: A space of discovery and sharing in AI
 theme: jekyll-swiss
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://nubia-labs.github.io"
 
 # Swiss theme settings
-theme_color: red # Can be red, blue, black, gray, magenta
+theme_color: white # Can be red, blue, black, gray, magenta
