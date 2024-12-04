@@ -13,3 +13,9 @@ author:
   email: hi@nubia-labs.com
   github: https://github.com/nubia-labs/
   linkedin: https://www.linkedin.com/company/nubia-labs
+
+# RSS Feed settings
+feed:
+  path: feed.xml
+  posts_limit: 20
+  excerpt_only: true
