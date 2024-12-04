@@ -14,6 +14,12 @@ author:
   github: https://github.com/nubia-labs/
   linkedin: https://www.linkedin.com/company/nubia-labs
 
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # RSS Feed settings
 feed:
   path: feed.xml
