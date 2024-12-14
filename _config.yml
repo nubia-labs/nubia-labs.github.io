@@ -14,6 +14,14 @@ author:
   github: https://github.com/nubia-labs/
   linkedin: https://www.linkedin.com/company/nubia-labs
 
+# Social media links for theme
+github_username: nubia-labs
+linkedin_username: nubia-labs
+twitter_username: nubia_labs  # if you want to add Twitter
+
+# Site Author (for the "maintained by" text)
+social_username: nubia-labs
+
 # Build settings
 markdown: kramdown
 plugins:
