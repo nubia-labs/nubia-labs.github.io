@@ -5,7 +5,16 @@ baseurl: ""
 url: "https://nubia-labs.github.io"
 
 # Swiss theme settings
-theme_color: white # Can be red, blue, black, gray, magenta
+theme_color: custom
+color_background: "#4B6288"
+color_dot_accent: "#E63E66"
+color_foreground: "#FCFCFC"
+color_title: "#FCFCFC"
+color_body_text: "#1B2942"
+color_text_accent: "#E63E66"
+color_code: "#1B2942"
+color_nav_link: "#4B6288"
+color_primary_link: "#E63E66"
 
 # Author information
 author:
@@ -33,3 +42,4 @@ feed:
   path: feed.xml
   posts_limit: 20
   excerpt_only: true
+
