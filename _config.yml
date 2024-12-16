@@ -4,17 +4,7 @@ theme: jekyll-swiss
 baseurl: ""
 url: "https://nubia-labs.github.io"
 
-# Swiss theme settings
-theme_color: custom
-color_background: "#4B6288"
-color_dot_accent: "#E63E66"
-color_foreground: "#FCFCFC"
-color_title: "#FCFCFC"
-color_body_text: "#1B2942"
-color_text_accent: "#E63E66"
-color_code: "#1B2942"
-color_nav_link: "#4B6288"
-color_primary_link: "#E63E66"
+theme_color: white
 
 # Author information
 author:
