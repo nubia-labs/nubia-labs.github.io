@@ -1,10 +1,9 @@
 title: Nubia-labs
 description: A space of discovery and sharing in ML & AI
 theme: jekyll-swiss
+theme_color: white
 baseurl: ""
 url: "https://nubia-labs.github.io"
-
-theme_color: white
 
 # Author information
 author:

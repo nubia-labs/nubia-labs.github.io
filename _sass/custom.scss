@@ -1,0 +1,18 @@
+// Font variables
+$body-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$body-font-size: 16px;
+$prose-font-size: 20px;
+
+// Custom theme colors
+$color-background: #4B6288;
+$color-dot-accent: #E63E66;
+$color-foreground: #FCFCFC;
+$color-title: #FCFCFC;
+$color-body-text: #1B2942;
+$color-text-accent: #E63E66;
+$color-code: #1B2942;
+$color-nav-link: #4B6288;
+$color-primary-link: #E63E66;
+
+// These variables need to be set before the theme-swiss import
+$theme-color: custom;
