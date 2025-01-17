@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Humans Behind Nubia Labs: Tamer
+title: Humans Behind Nubia Labs - Tamer
 ---
 
 # Rethinking Knowledge Work in the Age of AI

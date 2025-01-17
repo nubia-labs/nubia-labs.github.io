@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Humans Behind Nubia Labs: Luisa
+title: Humans Behind Nubia Labs - Luisa
 ---
 
 
